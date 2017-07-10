@@ -1,0 +1,128 @@
+
+body{
+background-color:#FFFFFF;
+}
+.menu{
+margin:20px;
+text-align:center; 
+padding:0px;
+font-size:25px;
+}/**标题**/
+.lyric {
+border-radius:0px;
+border:0px solid #8e8e8e;
+border-radius:30px;
+margin:1px; 
+padding:1px;
+}
+.list {
+border:0px solid #8e8e8e;
+border-radius:10px;
+margin:0px; 
+padding:0px;
+text-align:center;
+}/**首页列表**/
+
+.top{
+margin-top:5px;
+
+}
+hr{
+border-top:1px dotted #ff99cc;
+margin:0px;
+padding:1px 0px 1px 0px;
+}
+.autobr {
+word-wrap:break-word;word-break:break-all;
+}
+input[type='text']{
+border:2px dotted #eeeeee;
+border-radius:5px;
+width:82%;
+height:50px;
+}
+input[type='submit']{
+background-color:#eeeeee;
+border:1px solid #8e8e8e;
+width:15%;
+border-radius:3px;
+height:50px;
+margin:0px 0px 0px 1px;
+text-align:center;
+font-size:13px;
+padding-bottom:2px;
+}
+.error{
+color:#999966;
+border:2px solid #8E8E8E; 
+border-radius:4px; 
+margin:1px;
+text-align:center; 
+padding:2px;
+text-shadow: 1px 2px 3px #666666;
+
+
+}
+
+.shadow{
+
+
+}
+.font{
+
+text-align:center;
+
+font-size:12px;
+margin:1px;
+}
+
+button{
+       
+border:1px solid #00B93B ; 
+
+border-radius: 0px 5px 5px 0px;
+float:right;
+}
+.search{
+margin-top:43px;
+border-radius:5px;
+margin:10px;
+padding:6px;
+
+background:#; 
+overflow:hidden;
+     text-overflow:ellipsis;
+     white-space:nowrap;
+background-color:#ffffff;
+}/**搜索结果**/
+.but{
+    width:16%;
+    height:48px;
+    border:1px solid #FF9933 ; 
+    border-radius: 0px 5px 5px 0px;
+    float:right;
+    background:#CCCCCC;
+    font-size:23px;
+    overflow:hidden;
+    line-height:50px;
+    text-align: center;
+}
+
+
+textarea {
+	color: #ffffff; 
+	width:85%;
+        border-radius:4px 0px 0px 4px;
+	height: 50px;
+        background:#ffffff;
+}
+
+img {
+width:100%;
+}
+m{
+color:#212121;
+font-size:12px;
+
+
+}
