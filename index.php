@@ -25,7 +25,7 @@ echo <<<ttpod
 <input type = "text" name = "keywords" placeholder ="专辑搜索" >
 <input type = "submit" value = "GO"></form>
 </div>
-<div class = "menu font top"><a href="http://idtaanlcoe.get.vip">在GitHub上查看该项目</a><br><br>Copyright © 2017 Powered By <a href="http://idtaanlcoe.get.vip">Bruce Au </a></div>
+<div class = "menu font top"><a target="_blank" href="https://github.com/Bruceau/wyytools">在GitHub上查看该项目</a><br><br>Copyright © 2017 By <a target="_blank" href="https://Bruceau.com">Bruce Au </a></div>
 </body>
 </html>
 ttpod;
